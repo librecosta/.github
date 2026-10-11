@@ -1,25 +1,50 @@
-# LibreCosta
+<div align="center">
 
-**🚀 Independent software, thoughtfully built.**
+# 🌴 LibreCosta 🥥
 
-LibreCosta is an independent software and technology brand operated by Chengdu Yuanan Kaiwu Technology Co., Ltd.
+**Independent software, thoughtfully built.**
 
-We build practical software, SaaS products, and developer tools with a focus on reliability, simplicity, and long-term value.
+Explore freely · Build with purpose
 
-## Our Philosophy
+Independent software, SaaS, and developer tools  
+for builders who value clarity, reliability, and long-term thinking.
 
-**🐺 Explore freely. Build with purpose.**
+✦ **[Website](https://librecosta.com)** · ✉️ **[Contact](mailto:contact@librecosta.com)** ✦
 
-We believe meaningful technology begins with curiosity and takes shape through thoughtful engineering.
+</div>
 
-## Our Work
+<div align="center">
 
-Our products and open-source projects will be introduced here as they become available.
+**What We Build**
 
-## Contact
+Practical software · SaaS products · Developer tools
 
-**Email:** contact@librecosta.com
+</div>
+
+<div align="center">
+
+**Philosophy**
+
+Technology should feel clear, calm, and purposeful.  
+We build with restraint, design with intent,  
+and prefer long-term value over noise.
+
+</div>
+
+
+<div align="center">
+
+**About**
+
+LibreCosta is operated by **Chengdu Yuanan Kaiwu Technology Co., Ltd.**  
+成都远岸开物科技有限公司
+
+</div>
 
 ---
 
-LibreCosta · 成都远岸开物科技有限公司
+<div align="center">
+
+**LibreCosta · Explore freely · Build with purpose.**
+
+</div>
